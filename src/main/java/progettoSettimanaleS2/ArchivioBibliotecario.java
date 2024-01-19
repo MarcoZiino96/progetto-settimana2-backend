@@ -22,6 +22,8 @@ public class ArchivioBibliotecario{
 
         System.out.println(searchForAnno("2020"));
 
+        System.out.println(serchForAutore("Mondadori"));
+
 
 
 
@@ -43,6 +45,10 @@ public class ArchivioBibliotecario{
               filter(el->el.getAnnoPubblicazione().getYear() == date.getYear()).toList();
       return list;
     }
-
+    public static List<ProdottoBibliotecario> serchForAutore(String autore){
+        List<ProdottoBibliotecario> listByAutore = elencoProdottiBibliotecari.stream().
+                filter(el->el instanceof Libro && ((Libro) el).getAutore().toLowerCase().equals(autore.toLowerCase()) ).toList();
+        return listByAutore;
+    }
 }
 
