@@ -22,7 +22,7 @@ public class Rivista extends ProdottoBibliotecario{
 
     @Override
         public String toString() {
-            return "Articolo{" +
+            return "Rivista{" +
                     "IBNS='" + getCodiceIBNS() + '\'' +
                     "titolo='" + getTitolo() + '\'' +
                     "annoPubblicazione='" + getAnnoPubblicazione() + '\'' +

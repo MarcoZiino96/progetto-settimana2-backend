@@ -20,7 +20,7 @@ public class ArchivioBibliotecario{
         addProduct(r1);
         System.out.println(elencoProdottiBibliotecari);
 
-        System.out.println(searchForAnno(l1.getAnnoPubblicazione()));
+        System.out.println(searchForAnno("2020"));
 
 
 
@@ -43,5 +43,6 @@ public class ArchivioBibliotecario{
               filter(el->el.getAnnoPubblicazione().getYear() == date.getYear()).toList();
       return list;
     }
+
 }
 
