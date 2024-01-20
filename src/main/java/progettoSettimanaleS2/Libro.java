@@ -5,6 +5,7 @@ import java.util.Random;
 
 public class Libro extends  ProdottoBibliotecario{
 
+    private static  int decremento = 1000000000;
     private String autore;
     private String genere;
 
@@ -12,12 +13,17 @@ public class Libro extends  ProdottoBibliotecario{
         super(titolo, annoPubblicazione, numeroPagine);
         this.autore = autore;
         this.genere = genere;
-        this.setCodiceIBNS(new Random().nextLong());
+        setCodiceIBNS(decremento--);
     }
 
     public String getAutore() {
         return autore;
     }
+
+    public int getDecremento() {
+        return decremento;
+    }
+
     public String getGenere() {
         return genere;
     }

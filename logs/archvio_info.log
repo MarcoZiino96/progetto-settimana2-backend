@@ -1,0 +1,272 @@
+2024-01-20 15:23:26,147 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='1000000000'titolo='Alla ricerca di nemo'annoPubblicazione='2021-02-01'numeroPagine='150'autore='Mondadori', genere='Cartoon'}
+
+2024-01-20 15:23:26,152 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='500000000'titolo='Siamo quello che mangiamo'annoPubblicazione='2021-02-01'numeroPagine='55'periodicita=MENSILE}
+
+2024-01-20 15:23:26,152 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='999999999'titolo='Facile a dirsi'annoPubblicazione='2024-02-01'numeroPagine='150'autore='Allen', genere='Commedia'}
+
+2024-01-20 15:23:26,152 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='499999999'titolo='Top ten programming languages of the month'annoPubblicazione='2021-01-22'numeroPagine='55'periodicita=SETTIMANALE}
+
+2024-01-20 15:23:26,153 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='999999998'titolo='Una giornata uggiosa'annoPubblicazione='2020-02-01'numeroPagine='150'autore='Morfino Gabriele', genere='Drammatico'}
+
+2024-01-20 15:23:26,153 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='499999998'titolo='La storia del campione:Alessandro Del Piero'annoPubblicazione='2020-05-22'numeroPagine='55'periodicita=SEMESTRALE}
+
+2024-01-20 15:23:26,153 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='999999997'titolo='Romanzo Criminale'annoPubblicazione='2021-01-01'numeroPagine='150'autore='Mondadori', genere='Mafia'}
+
+2024-01-20 15:23:26,153 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='499999997'titolo='Siamo quello che mangiamo'annoPubblicazione='2021-01-11'numeroPagine='55'periodicita=MENSILE}
+
+2024-01-20 15:23:26,156 INFO main archivio_info - Risultato della tua ricerca del prodotto per anno :[Libro{IBNS='1000000000'titolo='Alla ricerca di nemo'annoPubblicazione='2021-02-01'numeroPagine='150'autore='Mondadori', genere='Cartoon'}
+, Libro{IBNS='999999997'titolo='Romanzo Criminale'annoPubblicazione='2021-01-01'numeroPagine='150'autore='Mondadori', genere='Mafia'}
+]
+2024-01-20 15:23:26,156 INFO main archivio_info - Risultato della tua ricerca del prodotto per anno :[]
+2024-01-20 15:28:29,181 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='1000000000'titolo='Alla ricerca di nemo'annoPubblicazione='2021-02-01'numeroPagine='150'autore='Mondadori', genere='Cartoon'}
+
+2024-01-20 15:28:29,186 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='500000000'titolo='Siamo quello che mangiamo'annoPubblicazione='2021-02-01'numeroPagine='55'periodicita=MENSILE}
+
+2024-01-20 15:28:29,186 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='999999999'titolo='Facile a dirsi'annoPubblicazione='2024-02-01'numeroPagine='150'autore='Allen', genere='Commedia'}
+
+2024-01-20 15:28:29,186 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='499999999'titolo='Top ten programming languages of the month'annoPubblicazione='2021-01-22'numeroPagine='55'periodicita=SETTIMANALE}
+
+2024-01-20 15:28:29,187 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='999999998'titolo='Una giornata uggiosa'annoPubblicazione='2020-02-01'numeroPagine='150'autore='Morfino Gabriele', genere='Drammatico'}
+
+2024-01-20 15:28:29,187 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='499999998'titolo='La storia del campione:Alessandro Del Piero'annoPubblicazione='2020-05-22'numeroPagine='55'periodicita=SEMESTRALE}
+
+2024-01-20 15:28:29,187 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='999999997'titolo='Romanzo Criminale'annoPubblicazione='2021-01-01'numeroPagine='150'autore='Mondadori', genere='Mafia'}
+
+2024-01-20 15:28:29,187 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='499999997'titolo='Siamo quello che mangiamo'annoPubblicazione='2021-01-11'numeroPagine='55'periodicita=MENSILE}
+
+2024-01-20 15:28:29,190 INFO main archivio_info - Risultato della tua ricerca del prodotto per autore:[Libro{IBNS='1000000000'titolo='Alla ricerca di nemo'annoPubblicazione='2021-02-01'numeroPagine='150'autore='Mondadori', genere='Cartoon'}
+, Libro{IBNS='999999997'titolo='Romanzo Criminale'annoPubblicazione='2021-01-01'numeroPagine='150'autore='Mondadori', genere='Mafia'}
+]
+2024-01-20 15:28:29,190 INFO main archivio_info - Risultato della tua ricerca del prodotto per autore:[]
+2024-01-20 15:30:32,283 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='1000000000'titolo='Alla ricerca di nemo'annoPubblicazione='2021-02-01'numeroPagine='150'autore='Mondadori', genere='Cartoon'}
+
+2024-01-20 15:30:32,289 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='500000000'titolo='Siamo quello che mangiamo'annoPubblicazione='2021-02-01'numeroPagine='55'periodicita=MENSILE}
+
+2024-01-20 15:30:32,289 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='999999999'titolo='Facile a dirsi'annoPubblicazione='2024-02-01'numeroPagine='150'autore='Allen', genere='Commedia'}
+
+2024-01-20 15:30:32,290 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='499999999'titolo='Top ten programming languages of the month'annoPubblicazione='2021-01-22'numeroPagine='55'periodicita=SETTIMANALE}
+
+2024-01-20 15:30:32,290 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='999999998'titolo='Una giornata uggiosa'annoPubblicazione='2020-02-01'numeroPagine='150'autore='Morfino Gabriele', genere='Drammatico'}
+
+2024-01-20 15:30:32,290 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='499999998'titolo='La storia del campione:Alessandro Del Piero'annoPubblicazione='2020-05-22'numeroPagine='55'periodicita=SEMESTRALE}
+
+2024-01-20 15:30:32,290 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='999999997'titolo='Romanzo Criminale'annoPubblicazione='2021-01-01'numeroPagine='150'autore='Mondadori', genere='Mafia'}
+
+2024-01-20 15:30:32,291 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='499999997'titolo='Siamo quello che mangiamo'annoPubblicazione='2021-01-11'numeroPagine='55'periodicita=MENSILE}
+
+2024-01-20 15:30:32,293 INFO main archivio_info - Risultato della tua ricerca del prodotto per autore:[Libro{IBNS='1000000000'titolo='Alla ricerca di nemo'annoPubblicazione='2021-02-01'numeroPagine='150'autore='Mondadori', genere='Cartoon'}
+, Libro{IBNS='999999997'titolo='Romanzo Criminale'annoPubblicazione='2021-01-01'numeroPagine='150'autore='Mondadori', genere='Mafia'}
+]
+2024-01-20 15:30:32,293 INFO main archivio_info - Risultato della tua ricerca del prodotto per autore:[]
+2024-01-20 15:32:51,910 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='1000000000'titolo='Alla ricerca di nemo'annoPubblicazione='2021-02-01'numeroPagine='150'autore='Mondadori', genere='Cartoon'}
+
+2024-01-20 15:32:51,915 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='500000000'titolo='Siamo quello che mangiamo'annoPubblicazione='2021-02-01'numeroPagine='55'periodicita=MENSILE}
+
+2024-01-20 15:32:51,916 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='999999999'titolo='Facile a dirsi'annoPubblicazione='2024-02-01'numeroPagine='150'autore='Allen', genere='Commedia'}
+
+2024-01-20 15:32:51,916 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='499999999'titolo='Top ten programming languages of the month'annoPubblicazione='2021-01-22'numeroPagine='55'periodicita=SETTIMANALE}
+
+2024-01-20 15:32:51,916 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='999999998'titolo='Una giornata uggiosa'annoPubblicazione='2020-02-01'numeroPagine='150'autore='Morfino Gabriele', genere='Drammatico'}
+
+2024-01-20 15:32:51,916 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='499999998'titolo='La storia del campione:Alessandro Del Piero'annoPubblicazione='2020-05-22'numeroPagine='55'periodicita=SEMESTRALE}
+
+2024-01-20 15:32:51,916 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='999999997'titolo='Romanzo Criminale'annoPubblicazione='2021-01-01'numeroPagine='150'autore='Mondadori', genere='Mafia'}
+
+2024-01-20 15:32:51,917 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='499999997'titolo='Siamo quello che mangiamo'annoPubblicazione='2021-01-11'numeroPagine='55'periodicita=MENSILE}
+
+2024-01-20 15:32:51,921 INFO main archivio_info - il prodotto con IBNS: 499999999 è stato trovato
+2024-01-20 15:32:51,921 INFO main archivio_info - il prodotto con IBNS: 999999998 è stato trovato
+2024-01-20 15:32:51,927 INFO main archivio_info - Risultato della tua ricerca del prodotto per anno :[]
+2024-01-20 15:32:51,928 INFO main archivio_info - Risultato della tua ricerca del prodotto per anno :[Libro{IBNS='999999999'titolo='Facile a dirsi'annoPubblicazione='2024-02-01'numeroPagine='150'autore='Allen', genere='Commedia'}
+]
+2024-01-20 15:32:51,929 INFO main archivio_info - Risultato della tua ricerca del prodotto per autore:[Libro{IBNS='1000000000'titolo='Alla ricerca di nemo'annoPubblicazione='2021-02-01'numeroPagine='150'autore='Mondadori', genere='Cartoon'}
+, Libro{IBNS='999999997'titolo='Romanzo Criminale'annoPubblicazione='2021-01-01'numeroPagine='150'autore='Mondadori', genere='Mafia'}
+]
+2024-01-20 15:32:51,930 INFO main archivio_info - Risultato della tua ricerca del prodotto per autore:[]
+2024-01-20 15:35:43,828 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='1000000000'titolo='Alla ricerca di nemo'annoPubblicazione='2021-02-01'numeroPagine='150'autore='Mondadori', genere='Cartoon'}
+
+2024-01-20 15:35:43,834 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='500000000'titolo='Siamo quello che mangiamo'annoPubblicazione='2021-02-01'numeroPagine='55'periodicita=MENSILE}
+
+2024-01-20 15:35:43,835 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='999999999'titolo='Facile a dirsi'annoPubblicazione='2024-02-01'numeroPagine='150'autore='Allen', genere='Commedia'}
+
+2024-01-20 15:35:43,835 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='499999999'titolo='Top ten programming languages of the month'annoPubblicazione='2021-01-22'numeroPagine='55'periodicita=SETTIMANALE}
+
+2024-01-20 15:35:43,835 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='999999998'titolo='Una giornata uggiosa'annoPubblicazione='2020-02-01'numeroPagine='150'autore='Morfino Gabriele', genere='Drammatico'}
+
+2024-01-20 15:35:43,835 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='499999998'titolo='La storia del campione:Alessandro Del Piero'annoPubblicazione='2020-05-22'numeroPagine='55'periodicita=SEMESTRALE}
+
+2024-01-20 15:35:43,836 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='999999997'titolo='Romanzo Criminale'annoPubblicazione='2021-01-01'numeroPagine='150'autore='Mondadori', genere='Mafia'}
+
+2024-01-20 15:35:43,836 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='499999997'titolo='Siamo quello che mangiamo'annoPubblicazione='2021-01-11'numeroPagine='55'periodicita=MENSILE}
+
+2024-01-20 15:35:43,839 INFO main archivio_info - il prodotto con IBNS: 499999999 è stato trovato
+2024-01-20 15:35:43,840 INFO main archivio_info - il prodotto con IBNS: 999999998 è stato trovato
+2024-01-20 15:35:43,844 INFO main archivio_info - Risultato della tua ricerca del prodotto per anno :[]
+2024-01-20 15:35:43,844 INFO main archivio_info - Risultato della tua ricerca del prodotto per anno :[Libro{IBNS='999999999'titolo='Facile a dirsi'annoPubblicazione='2024-02-01'numeroPagine='150'autore='Allen', genere='Commedia'}
+]
+2024-01-20 15:35:43,845 INFO main archivio_info - Risultato della tua ricerca del prodotto per autore:[Libro{IBNS='1000000000'titolo='Alla ricerca di nemo'annoPubblicazione='2021-02-01'numeroPagine='150'autore='Mondadori', genere='Cartoon'}
+, Libro{IBNS='999999997'titolo='Romanzo Criminale'annoPubblicazione='2021-01-01'numeroPagine='150'autore='Mondadori', genere='Mafia'}
+]
+2024-01-20 15:35:43,846 INFO main archivio_info - Risultato della tua ricerca del prodotto per autore:[]
+2024-01-20 15:36:26,001 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='1000000000'titolo='Alla ricerca di nemo'annoPubblicazione='2021-02-01'numeroPagine='150'autore='Mondadori', genere='Cartoon'}
+
+2024-01-20 15:36:26,006 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='500000000'titolo='Siamo quello che mangiamo'annoPubblicazione='2021-02-01'numeroPagine='55'periodicita=MENSILE}
+
+2024-01-20 15:36:26,007 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='999999999'titolo='Facile a dirsi'annoPubblicazione='2024-02-01'numeroPagine='150'autore='Allen', genere='Commedia'}
+
+2024-01-20 15:36:26,007 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='499999999'titolo='Top ten programming languages of the month'annoPubblicazione='2021-01-22'numeroPagine='55'periodicita=SETTIMANALE}
+
+2024-01-20 15:36:26,007 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='999999998'titolo='Una giornata uggiosa'annoPubblicazione='2020-02-01'numeroPagine='150'autore='Morfino Gabriele', genere='Drammatico'}
+
+2024-01-20 15:36:26,007 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='499999998'titolo='La storia del campione:Alessandro Del Piero'annoPubblicazione='2020-05-22'numeroPagine='55'periodicita=SEMESTRALE}
+
+2024-01-20 15:36:26,007 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='999999997'titolo='Romanzo Criminale'annoPubblicazione='2021-01-01'numeroPagine='150'autore='Mondadori', genere='Mafia'}
+
+2024-01-20 15:36:26,008 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='499999997'titolo='Siamo quello che mangiamo'annoPubblicazione='2021-01-11'numeroPagine='55'periodicita=MENSILE}
+
+2024-01-20 15:36:26,011 INFO main archivio_info - il prodotto con IBNS: 499999999 è stato trovato
+2024-01-20 15:36:26,011 INFO main archivio_info - il prodotto con IBNS: 999999998 è stato trovato
+2024-01-20 15:36:26,015 INFO main archivio_info - Risultato della tua ricerca del prodotto per anno :[]
+2024-01-20 15:36:26,015 INFO main archivio_info - Risultato della tua ricerca del prodotto per anno :[Libro{IBNS='999999999'titolo='Facile a dirsi'annoPubblicazione='2024-02-01'numeroPagine='150'autore='Allen', genere='Commedia'}
+]
+2024-01-20 15:36:26,016 INFO main archivio_info - Risultato della tua ricerca del prodotto per autore:[Libro{IBNS='1000000000'titolo='Alla ricerca di nemo'annoPubblicazione='2021-02-01'numeroPagine='150'autore='Mondadori', genere='Cartoon'}
+, Libro{IBNS='999999997'titolo='Romanzo Criminale'annoPubblicazione='2021-01-01'numeroPagine='150'autore='Mondadori', genere='Mafia'}
+]
+2024-01-20 15:36:26,016 INFO main archivio_info - Risultato della tua ricerca del prodotto per autore:[]
+2024-01-20 15:40:22,267 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='1000000000'titolo='Alla ricerca di nemo'annoPubblicazione='2021-02-01'numeroPagine='150'autore='Mondadori', genere='Cartoon'}
+
+2024-01-20 15:40:22,273 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='500000000'titolo='Siamo quello che mangiamo'annoPubblicazione='2021-02-01'numeroPagine='55'periodicita=MENSILE}
+
+2024-01-20 15:40:22,274 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='999999999'titolo='Facile a dirsi'annoPubblicazione='2024-02-01'numeroPagine='150'autore='Allen', genere='Commedia'}
+
+2024-01-20 15:40:22,274 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='499999999'titolo='Top ten programming languages of the month'annoPubblicazione='2021-01-22'numeroPagine='55'periodicita=SETTIMANALE}
+
+2024-01-20 15:40:22,274 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='999999998'titolo='Una giornata uggiosa'annoPubblicazione='2020-02-01'numeroPagine='150'autore='Morfino Gabriele', genere='Drammatico'}
+
+2024-01-20 15:40:22,274 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='499999998'titolo='La storia del campione:Alessandro Del Piero'annoPubblicazione='2020-05-22'numeroPagine='55'periodicita=SEMESTRALE}
+
+2024-01-20 15:40:22,275 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='999999997'titolo='Romanzo Criminale'annoPubblicazione='2021-01-01'numeroPagine='150'autore='Mondadori', genere='Mafia'}
+
+2024-01-20 15:40:22,275 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='499999997'titolo='Siamo quello che mangiamo'annoPubblicazione='2021-01-11'numeroPagine='55'periodicita=MENSILE}
+
+2024-01-20 15:40:22,282 INFO main archivio_info - il prodotto con IBNS: 499999999 è stato trovato
+2024-01-20 15:40:22,282 INFO main archivio_info - il prodotto con IBNS: 999999998 è stato trovato
+2024-01-20 15:40:22,285 INFO main archivio_info - Risultato della tua ricerca del prodotto per anno :[]
+2024-01-20 15:40:22,287 INFO main archivio_info - Risultato della tua ricerca del prodotto per anno :[Libro{IBNS='999999999'titolo='Facile a dirsi'annoPubblicazione='2024-02-01'numeroPagine='150'autore='Allen', genere='Commedia'}
+]
+2024-01-20 15:40:22,288 INFO main archivio_info - Risultato della tua ricerca del prodotto per autore:[Libro{IBNS='1000000000'titolo='Alla ricerca di nemo'annoPubblicazione='2021-02-01'numeroPagine='150'autore='Mondadori', genere='Cartoon'}
+, Libro{IBNS='999999997'titolo='Romanzo Criminale'annoPubblicazione='2021-01-01'numeroPagine='150'autore='Mondadori', genere='Mafia'}
+]
+2024-01-20 15:40:22,288 INFO main archivio_info - Risultato della tua ricerca del prodotto per autore:[]
+2024-01-20 15:40:22,289 INFO main archivio_info - Il prodotto con IBNS:499999999 è stato eliminato corettamente
+2024-01-20 16:24:17,404 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='1000000000'titolo='Alla ricerca di nemo'annoPubblicazione='2021-02-01'numeroPagine='150'autore='Mondadori', genere='Cartoon'}
+
+2024-01-20 16:24:17,411 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='500000000'titolo='Siamo quello che mangiamo'annoPubblicazione='2021-02-01'numeroPagine='55'periodicita=MENSILE}
+
+2024-01-20 16:24:17,412 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='999999999'titolo='Facile a dirsi'annoPubblicazione='2024-02-01'numeroPagine='150'autore='Allen', genere='Commedia'}
+
+2024-01-20 16:24:17,412 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='499999999'titolo='Top ten programming languages of the month'annoPubblicazione='2021-01-22'numeroPagine='55'periodicita=SETTIMANALE}
+
+2024-01-20 16:24:17,412 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='999999998'titolo='Una giornata uggiosa'annoPubblicazione='2020-02-01'numeroPagine='150'autore='Morfino Gabriele', genere='Drammatico'}
+
+2024-01-20 16:24:17,412 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='499999998'titolo='La storia del campione:Alessandro Del Piero'annoPubblicazione='2020-05-22'numeroPagine='55'periodicita=SEMESTRALE}
+
+2024-01-20 16:24:17,412 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='999999997'titolo='Romanzo Criminale'annoPubblicazione='2021-01-01'numeroPagine='150'autore='Mondadori', genere='Mafia'}
+
+2024-01-20 16:24:17,413 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='499999997'titolo='Siamo quello che mangiamo'annoPubblicazione='2021-01-11'numeroPagine='55'periodicita=MENSILE}
+
+2024-01-20 16:24:17,422 INFO main archivio_info - il prodotto con IBNS: 499999999 è stato trovato
+2024-01-20 16:24:17,423 INFO main archivio_info - il prodotto con IBNS: 999999998 è stato trovato
+2024-01-20 16:24:17,427 INFO main archivio_info - Risultato della tua ricerca del prodotto per anno :2019 []
+2024-01-20 16:24:17,427 INFO main archivio_info - Risultato della tua ricerca del prodotto per anno :2024 [Libro{IBNS='999999999'titolo='Facile a dirsi'annoPubblicazione='2024-02-01'numeroPagine='150'autore='Allen', genere='Commedia'}
+]
+2024-01-20 16:24:17,428 INFO main archivio_info - Risultato della tua ricerca del prodotto per autore:[Libro{IBNS='1000000000'titolo='Alla ricerca di nemo'annoPubblicazione='2021-02-01'numeroPagine='150'autore='Mondadori', genere='Cartoon'}
+, Libro{IBNS='999999997'titolo='Romanzo Criminale'annoPubblicazione='2021-01-01'numeroPagine='150'autore='Mondadori', genere='Mafia'}
+]
+2024-01-20 16:24:17,428 INFO main archivio_info - Risultato della tua ricerca del prodotto per autore:[]
+2024-01-20 16:24:17,429 INFO main archivio_info - Il prodotto con IBNS:499999999 è stato eliminato corettamente
+2024-01-20 16:24:17,501 INFO main archivio_info - Salvataggio archivio su file
+2024-01-20 17:15:53,131 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='1000000000'titolo='Alla ricerca di nemo'annoPubblicazione='2021-02-01'numeroPagine='150'autore='Mondadori', genere='Cartoon'}
+
+2024-01-20 17:15:53,136 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='500000000'titolo='Siamo quello che mangiamo'annoPubblicazione='2021-02-01'numeroPagine='55'periodicita=MENSILE}
+
+2024-01-20 17:15:53,136 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='999999999'titolo='Facile a dirsi'annoPubblicazione='2024-02-01'numeroPagine='150'autore='Allen', genere='Commedia'}
+
+2024-01-20 17:15:53,137 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='499999999'titolo='Top ten programming languages of the month'annoPubblicazione='2021-01-22'numeroPagine='55'periodicita=SETTIMANALE}
+
+2024-01-20 17:15:53,137 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='999999998'titolo='Una giornata uggiosa'annoPubblicazione='2020-02-01'numeroPagine='150'autore='Morfino Gabriele', genere='Drammatico'}
+
+2024-01-20 17:15:53,137 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='499999998'titolo='La storia del campione:Alessandro Del Piero'annoPubblicazione='2020-05-22'numeroPagine='55'periodicita=SEMESTRALE}
+
+2024-01-20 17:15:53,137 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='999999997'titolo='Romanzo Criminale'annoPubblicazione='2021-01-01'numeroPagine='150'autore='Mondadori', genere='Mafia'}
+
+2024-01-20 17:15:53,137 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='499999997'titolo='Siamo quello che mangiamo'annoPubblicazione='2021-01-11'numeroPagine='55'periodicita=MENSILE}
+
+2024-01-20 17:15:53,143 INFO main archivio_info - il prodotto con IBNS: 499999999 è stato trovato
+2024-01-20 17:15:53,144 INFO main archivio_info - il prodotto con IBNS: 999999998 è stato trovato
+2024-01-20 17:15:53,146 INFO main archivio_info - Risultato della tua ricerca del prodotto per anno :2019 []
+2024-01-20 17:15:53,147 INFO main archivio_info - Risultato della tua ricerca del prodotto per anno :2024 [Libro{IBNS='999999999'titolo='Facile a dirsi'annoPubblicazione='2024-02-01'numeroPagine='150'autore='Allen', genere='Commedia'}
+]
+2024-01-20 17:15:53,148 INFO main archivio_info - Risultato della tua ricerca del prodotto per autore:[Libro{IBNS='1000000000'titolo='Alla ricerca di nemo'annoPubblicazione='2021-02-01'numeroPagine='150'autore='Mondadori', genere='Cartoon'}
+, Libro{IBNS='999999997'titolo='Romanzo Criminale'annoPubblicazione='2021-01-01'numeroPagine='150'autore='Mondadori', genere='Mafia'}
+]
+2024-01-20 17:15:53,148 INFO main archivio_info - Risultato della tua ricerca del prodotto per autore:[]
+2024-01-20 17:15:53,149 INFO main archivio_info - Il prodotto con IBNS:499999999 è stato eliminato corettamente
+2024-01-20 17:15:53,181 INFO main archivio_info - Salvataggio archivio su file
+2024-01-20 17:15:53,188 INFO main archivio_info - Lettura corretta dal disco
+2024-01-20 17:16:26,514 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='1000000000'titolo='Alla ricerca di nemo'annoPubblicazione='2021-02-01'numeroPagine='150'autore='Mondadori', genere='Cartoon'}
+
+2024-01-20 17:16:26,519 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='500000000'titolo='Siamo quello che mangiamo'annoPubblicazione='2021-02-01'numeroPagine='55'periodicita=MENSILE}
+
+2024-01-20 17:16:26,520 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='999999999'titolo='Facile a dirsi'annoPubblicazione='2024-02-01'numeroPagine='150'autore='Allen', genere='Commedia'}
+
+2024-01-20 17:16:26,520 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='499999999'titolo='Top ten programming languages of the month'annoPubblicazione='2021-01-22'numeroPagine='55'periodicita=SETTIMANALE}
+
+2024-01-20 17:16:26,520 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='999999998'titolo='Una giornata uggiosa'annoPubblicazione='2020-02-01'numeroPagine='150'autore='Morfino Gabriele', genere='Drammatico'}
+
+2024-01-20 17:16:26,520 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='499999998'titolo='La storia del campione:Alessandro Del Piero'annoPubblicazione='2020-05-22'numeroPagine='55'periodicita=SEMESTRALE}
+
+2024-01-20 17:16:26,520 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='999999997'titolo='Romanzo Criminale'annoPubblicazione='2021-01-01'numeroPagine='150'autore='Mondadori', genere='Mafia'}
+
+2024-01-20 17:16:26,520 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='499999997'titolo='Siamo quello che mangiamo'annoPubblicazione='2021-01-11'numeroPagine='55'periodicita=MENSILE}
+
+2024-01-20 17:16:26,526 INFO main archivio_info - il prodotto con IBNS: 499999999 è stato trovato
+2024-01-20 17:16:26,527 INFO main archivio_info - il prodotto con IBNS: 999999998 è stato trovato
+2024-01-20 17:16:26,529 INFO main archivio_info - Risultato della tua ricerca del prodotto per anno :2019 []
+2024-01-20 17:16:26,530 INFO main archivio_info - Risultato della tua ricerca del prodotto per anno :2024 [Libro{IBNS='999999999'titolo='Facile a dirsi'annoPubblicazione='2024-02-01'numeroPagine='150'autore='Allen', genere='Commedia'}
+]
+2024-01-20 17:16:26,531 INFO main archivio_info - Risultato della tua ricerca del prodotto per autore:[Libro{IBNS='1000000000'titolo='Alla ricerca di nemo'annoPubblicazione='2021-02-01'numeroPagine='150'autore='Mondadori', genere='Cartoon'}
+, Libro{IBNS='999999997'titolo='Romanzo Criminale'annoPubblicazione='2021-01-01'numeroPagine='150'autore='Mondadori', genere='Mafia'}
+]
+2024-01-20 17:16:26,531 INFO main archivio_info - Risultato della tua ricerca del prodotto per autore:[]
+2024-01-20 17:16:26,533 INFO main archivio_info - Il prodotto con IBNS:499999999 è stato eliminato corettamente
+2024-01-20 17:16:26,567 INFO main archivio_info - Salvataggio archivio su file
+2024-01-20 17:16:26,571 INFO main archivio_info - Lettura corretta dal disco
+2024-01-20 17:18:20,983 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='1000000000'titolo='Alla ricerca di nemo'annoPubblicazione='2021-02-01'numeroPagine='150'autore='Mondadori', genere='Cartoon'}
+
+2024-01-20 17:18:20,989 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='500000000'titolo='Siamo quello che mangiamo'annoPubblicazione='2021-02-01'numeroPagine='55'periodicita=MENSILE}
+
+2024-01-20 17:18:20,989 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='999999999'titolo='Facile a dirsi'annoPubblicazione='2024-02-01'numeroPagine='150'autore='Allen', genere='Commedia'}
+
+2024-01-20 17:18:20,990 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='499999999'titolo='Top ten programming languages of the month'annoPubblicazione='2021-01-22'numeroPagine='55'periodicita=SETTIMANALE}
+
+2024-01-20 17:18:20,990 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='999999998'titolo='Una giornata uggiosa'annoPubblicazione='2020-02-01'numeroPagine='150'autore='Morfino Gabriele', genere='Drammatico'}
+
+2024-01-20 17:18:20,990 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='499999998'titolo='La storia del campione:Alessandro Del Piero'annoPubblicazione='2020-05-22'numeroPagine='55'periodicita=SEMESTRALE}
+
+2024-01-20 17:18:20,990 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteLibro{IBNS='999999997'titolo='Romanzo Criminale'annoPubblicazione='2021-01-01'numeroPagine='150'autore='Mondadori', genere='Mafia'}
+
+2024-01-20 17:18:20,990 INFO main archivio_info - Il prodotto è stato aggiunto correttamenteRivista{IBNS='499999997'titolo='Siamo quello che mangiamo'annoPubblicazione='2021-01-11'numeroPagine='55'periodicita=MENSILE}
+
+2024-01-20 17:18:20,996 INFO main archivio_info - il prodotto con IBNS: 499999999 è stato trovato
+2024-01-20 17:18:20,997 INFO main archivio_info - il prodotto con IBNS: 999999998 è stato trovato
+2024-01-20 17:18:21,000 INFO main archivio_info - Risultato della tua ricerca del prodotto per anno :2019 []
+2024-01-20 17:18:21,000 INFO main archivio_info - Risultato della tua ricerca del prodotto per anno :2024 [Libro{IBNS='999999999'titolo='Facile a dirsi'annoPubblicazione='2024-02-01'numeroPagine='150'autore='Allen', genere='Commedia'}
+]
+2024-01-20 17:18:21,001 INFO main archivio_info - Risultato della tua ricerca del prodotto per autore:[Libro{IBNS='1000000000'titolo='Alla ricerca di nemo'annoPubblicazione='2021-02-01'numeroPagine='150'autore='Mondadori', genere='Cartoon'}
+, Libro{IBNS='999999997'titolo='Romanzo Criminale'annoPubblicazione='2021-01-01'numeroPagine='150'autore='Mondadori', genere='Mafia'}
+]
+2024-01-20 17:18:21,001 INFO main archivio_info - Risultato della tua ricerca del prodotto per autore:[]
+2024-01-20 17:18:21,002 INFO main archivio_info - Il prodotto con IBNS:499999999 è stato eliminato corettamente
+2024-01-20 17:18:21,042 INFO main archivio_info - Salvataggio archivio su file
+2024-01-20 17:18:21,045 INFO main archivio_info - Lettura corretta dal disco

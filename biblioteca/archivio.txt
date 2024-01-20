@@ -1,0 +1,7 @@
+LIBRO : 1000000000@2021-02-01@Mondadori@Cartoon@Alla ricerca di nemo@150# 
+Rivista : @500000000@Siamo quello che mangiamo@2021-02-01@55@MENSILE# 
+LIBRO : 999999999@2024-02-01@Allen@Commedia@Facile a dirsi@150# 
+LIBRO : 999999998@2020-02-01@Morfino Gabriele@Drammatico@Una giornata uggiosa@150# 
+Rivista : @499999998@La storia del campione:Alessandro Del Piero@2020-05-22@55@SEMESTRALE# 
+LIBRO : 999999997@2021-01-01@Mondadori@Mafia@Romanzo Criminale@150# 
+Rivista : @499999997@Siamo quello che mangiamo@2021-01-11@55@MENSILE

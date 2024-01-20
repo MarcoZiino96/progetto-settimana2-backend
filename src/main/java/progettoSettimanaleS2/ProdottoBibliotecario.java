@@ -4,7 +4,7 @@ import java.time.LocalDate;
 
 public abstract class  ProdottoBibliotecario {
 
-    private long codiceIBNS;
+    private int codiceIBNS;
     private String titolo;
     private LocalDate annoPubblicazione;
     private int numeroPagine;
@@ -15,10 +15,9 @@ public abstract class  ProdottoBibliotecario {
         this.titolo = titolo;
         this.annoPubblicazione = annoPubblicazione;
         this.numeroPagine = numeroPagine;
-
     }
 
-    public  void setCodiceIBNS(long n){
+    public  void setCodiceIBNS(int n){
         codiceIBNS = n;
     };
 
